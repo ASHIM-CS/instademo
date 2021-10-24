@@ -1,0 +1,30 @@
+.welcome{
+    color: rgb(45, 210, 30);
+}
+.card{
+    color:rebeccapurple
+}
+.card-2{
+    color:rgb(80, 153, 51)
+}
+.discount{
+    color: rgb(253, 120, 4);
+    size: 30px;
+}
+
+.search{
+    width: 30%;
+    height: auto;
+    
+
+}
+.end{
+    color: rgb(253, 252, 252);
+    font-weight:bolder;
+
+}
+.lead{
+    color:rgb(253, 252, 252);
+    font-size:large;
+}
+
